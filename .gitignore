@@ -1,0 +1,17 @@
+# Entorno virtual y temporales
+.venv/
+__pycache__/
+*.pyc
+temp_downloads/
+
+# Archivos de compilación y ejecutables
+build/
+dist/
+*.exe
+*.spec
+
+#Version anterior
+wo_transformer.py
+
+# Credenciales e información sensible
+token.json
