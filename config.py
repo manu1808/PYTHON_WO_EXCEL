@@ -44,6 +44,6 @@ NEG_FILL = PatternFill("solid", fgColor="FFFF00")  # Amarillo
 NEG_COLOR = "FF0000"                               # Texto Rojo
 
 # Configuración de Google Drive
-DRIVE_FOLDER_ID = "14W9fUS6cFmKOSR09stVS7c2KyvLHeSa9"
+DRIVE_FOLDER_ID = "1bn04Qp7CREGON1s-xVuPrpt6l6BKgP79"
 GOOGLE_TOKEN_FILE = "token.json"
 DRIVE_SCOPES = ["https://www.googleapis.com/auth/drive"]
